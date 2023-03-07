@@ -1,5 +1,5 @@
 import './App.css';
-import React, { useState, useEffect, useCallback, useRef } from 'react'
+import React, { useState, useEffect, useCallback, useRef } from 'react';
 import { ChatClient } from './chat-client';
 
 const URL = 'wss://09xqig1wrd.execute-api.us-east-2.amazonaws.com/production/';
